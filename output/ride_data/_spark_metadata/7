@@ -1,0 +1,3 @@
+v1
+{"path":"file:///workspaces/ride-sharing-analytics-spark-streaming-Manisha8901/output/ride_data/part-00000-fcbf807e-9618-46e1-99f6-05aa62469b4e-c000.csv","size":359,"isDir":false,"modificationTime":1743557890174,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///workspaces/ride-sharing-analytics-spark-streaming-Manisha8901/output/ride_data/part-00001-9fd75015-adde-4173-a262-25931824476e-c000.csv","size":358,"isDir":false,"modificationTime":1743557890162,"blockReplication":1,"blockSize":33554432,"action":"add"}
